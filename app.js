@@ -15,6 +15,7 @@ const agent = ytdl.createAgent(cookies, agentOptions);
 ytdl.getBasicInfo("http://www.youtube.com/watch?v=aqz-KE-bpKQ", { agent }).then((res) => {
     console.log(res);
 });
+
 ytdl.getInfo("http://www.youtube.com/watch?v=aqz-KE-bpKQ", { agent }).then((res) => {
     console.log(res);
 });
