@@ -30,7 +30,7 @@ Place your YouTube authentication cookies in a file named cookies.txt.
 **Run the script:**
 
 ```
-node app.js
+node youtube-downloader
 ```
 
 ```
