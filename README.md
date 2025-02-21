@@ -13,7 +13,7 @@ A simple Node.js script to fetch YouTube video information using the `@distube/y
 
 **Clone the repository:**
 ```
-git clone https://github.com/your-username/youtube-downloader-js.git
+git clone https://github.com/BaseMax/youtube-downloader-js.git
 cd youtube-downloader-js
 ```
 
